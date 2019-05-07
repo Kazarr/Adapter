@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter.csproj", "{EBA87BB1-D628-438C-9DBE-D29A1A4AEB9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA87BB1-D628-438C-9DBE-D29A1A4AEB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA87BB1-D628-438C-9DBE-D29A1A4AEB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA87BB1-D628-438C-9DBE-D29A1A4AEB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA87BB1-D628-438C-9DBE-D29A1A4AEB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57784019-20C9-4347-9FED-3A4F5D988C63}
+	EndGlobalSection
+EndGlobal
